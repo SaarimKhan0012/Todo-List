@@ -41,3 +41,5 @@ project-folder/
 - JavaScript (jQuery)  
 
 ---
+## 🌐 Live Demo
+[Click here to view the app](https://your-username.github.io/todo-list-app/)
