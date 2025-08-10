@@ -5,6 +5,12 @@ This app allows you to manage tasks with features like add, edit, delete, mark a
 
 ---
 
+## 📸 Preview
+[Todo List App Preview](assets/preview.png)  
+
+
+---
+
 ## 🚀 Features
 - ✅ Add tasks with **description**, **responsible person**, and **ETA**.
 - ✏ Edit existing tasks.
@@ -20,7 +26,8 @@ This app allows you to manage tasks with features like add, edit, delete, mark a
 
 project-folder/
 │── assets/
-│ └── pay.png
+│ ├── pay.png
+│ └── preview.png
 │── vendor/
 │ ├── bootstrap/
 │ │ └── css/bootstrap.css
@@ -41,5 +48,11 @@ project-folder/
 - JavaScript (jQuery)  
 
 ---
+
 ## 🌐 Live Demo
-[Click here to view the app](https://your-username.github.io/todo-list-app/)
+[Click here to view the app](https://saarimkhan0012.github.io/Todo-List/)
+
+---
+
+## 📜 License
+MIT License — free to use, modify, and share.
